@@ -1,0 +1,13 @@
+actual_same_image big_table_chopped.ppm
+different_set_similar_images table_03_cropped.ppm
+distinct_large_picture big_table_cropped.ppm
+many_small_pics small_466.ppm
+mixed_valid_invalid_image Basket_018.ppm 
+no_similar_images basket_chopped.ppm
+no_sub_folder SNC
+non_ppm_image SNC
+similar_images_multiple_small [small_02.ppm,small_dis13_1.ppm,small_dis13_2.ppm,small_dis13_3.ppm]
+similar_images_unique_large whale_00.ppm
+similar_images_unique_small small_05.ppm
+similar_images_with_diff_size SNC
+valid_ppm_with_non_ppm_suffix basket_01.jpg
